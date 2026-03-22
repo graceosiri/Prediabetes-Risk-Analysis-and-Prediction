@@ -1,9 +1,4 @@
-# 🩺 Prediabetes-Risk-Analysis-and-Prediction
-
-![R](https://img.shields.io/badge/R-Statistical%20Modeling-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-orange)
-![Health Analytics](https://img.shields.io/badge/Domain-Health%20Analytics-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+# Prediabetes-Risk-Analysis-and-Prediction
 
 A data science project that analyzes dietary, demographic, and clinical factors to predict prediabetes risk using NHANES survey data.
 
